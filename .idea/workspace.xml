@@ -19,11 +19,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -50,6 +51,8 @@
     "Application.DemoConditionalOperator.executor": "Run",
     "Application.DemoDoWhileLoop.executor": "Run",
     "Application.DemoForLoop.executor": "Run",
+    "Application.DemoNumberPattern.executor": "Run",
+    "Application.DemoStarPatternsUsingForLoop.executor": "Run",
     "Application.DemoSwitchCase.executor": "Run",
     "Application.DemoWhileLoop.executor": "Run",
     "Application.IfElseDemo.executor": "Run",
@@ -80,14 +83,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoForLoop">
-    <configuration name="DemoBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoBufferReader" />
-      <module name="Core_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.DemoNumberPattern">
     <configuration name="DemoDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoDoWhileLoop" />
       <module name="Core_Java" />
@@ -102,8 +98,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoSwitchCase" />
+    <configuration name="DemoNumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoNumberPattern" />
+      <module name="Core_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoStarPatternsUsingForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoStarPatternsUsingForLoop" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoNumberPattern" />
+        <item itemvalue="Application.DemoStarPatternsUsingForLoop" />
         <item itemvalue="Application.DemoForLoop" />
         <item itemvalue="Application.DemoDoWhileLoop" />
         <item itemvalue="Application.DemoWhileLoop" />
-        <item itemvalue="Application.DemoSwitchCase" />
-        <item itemvalue="Application.DemoBufferReader" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710191793345</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="While Loop">
+      <option name="closed" value="true" />
+      <created>1710192770342</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710192770342</updated>
+    </task>
+    <task id="LOCAL-00009" summary="StarPattern">
+      <option name="closed" value="true" />
+      <created>1710193443247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193443247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +243,7 @@
     <MESSAGE value="Integer.paresInt Demo added" />
     <MESSAGE value="Practicing Demo Switch Case" />
     <MESSAGE value="While Loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="While Loop" />
+    <MESSAGE value="StarPattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="StarPattern" />
   </component>
 </project>
