@@ -20,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cc4d74ae-7655-4be3-9feb-83df18b9dc7e" />
+        <option name="url" value="https://github.com/dijucode/Core_Java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,47 +43,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoBufferReader.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DemoConditionalOperator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IfElseDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.getter_setter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.pracrice.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Demo.executor": "Run",
+    "Application.DemoBufferReader.executor": "Run",
+    "Application.DemoConditionalOperator.executor": "Run",
+    "Application.DemoDoWhileLoop.executor": "Run",
+    "Application.DemoForLoop.executor": "Run",
+    "Application.DemoSwitchCase.executor": "Run",
+    "Application.DemoWhileLoop.executor": "Run",
+    "Application.IfElseDemo.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.getter_setter.executor": "Run",
+    "Application.pracrice.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ],
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
-  <component name="RunManager" selected="Application.DemoSwitchCase">
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
-      <module name="Core_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.DemoForLoop">
     <configuration name="DemoBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DemoBufferReader" />
       <module name="Core_Java" />
@@ -79,8 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoConditionalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoConditionalOperator" />
+    <configuration name="DemoDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoDoWhileLoop" />
+      <module name="Core_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoForLoop" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfElseDemo" />
+    <configuration name="DemoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoWhileLoop" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DemoForLoop" />
+        <item itemvalue="Application.DemoDoWhileLoop" />
+        <item itemvalue="Application.DemoWhileLoop" />
         <item itemvalue="Application.DemoSwitchCase" />
         <item itemvalue="Application.DemoBufferReader" />
-        <item itemvalue="Application.IfElseDemo" />
-        <item itemvalue="Application.DemoConditionalOperator" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +170,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710189288355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practicing Demo Switch Case">
+      <option name="closed" value="true" />
+      <created>1710190197616</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710190197616</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Practicing Demo Switch Case">
+      <option name="closed" value="true" />
+      <created>1710190345758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710190345758</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Practicing Demo Switch Case">
+      <option name="closed" value="true" />
+      <created>1710190367485</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710190367485</updated>
+    </task>
+    <task id="LOCAL-00007" summary="While Loop">
+      <option name="closed" value="true" />
+      <created>1710191793345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710191793345</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +222,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="DemoBufferReader Explaination Code" />
     <MESSAGE value="Integer.paresInt Demo added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integer.paresInt Demo added" />
+    <MESSAGE value="Practicing Demo Switch Case" />
+    <MESSAGE value="While Loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="While Loop" />
   </component>
 </project>
