@@ -7,5 +7,7 @@ public class DemoBufferReader {
         BufferedReader br = new BufferedReader((isr));
         String str = br.readLine();
         System.out.println(str);
+        Integer i = Integer.parseInt(str);
+        System.out.println(i);
     }
 }
