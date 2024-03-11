@@ -1,13 +1,19 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class DemoBufferReader {
+public class DemoOddEvenUsingBufferReader {
     public static void main(String[] args) throws Exception {
         InputStreamReader isr = new InputStreamReader(System.in);
-        BufferedReader br = new BufferedReader((isr));
+        BufferedReader br = new BufferedReader(isr);
         String str = br.readLine();
-        System.out.println(str);
         Integer i = Integer.parseInt(str);
-        System.out.println(i);
+        if (i % 2 == 0){
+            System.out.println("even");
+
+        }
+        else{
+            System.out.println("odd");
+        }
+
     }
 }
