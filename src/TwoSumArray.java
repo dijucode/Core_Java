@@ -6,7 +6,7 @@ public class TwoSumArray {
             for(int j= i+1; j <= arr.length; j++){
                 if(i+j==8){
                     System.out.print(i + " ");
-                    System.out.println(j);
+                    System.out.println("+ " + j + " = 8");
 
                 }
             }
