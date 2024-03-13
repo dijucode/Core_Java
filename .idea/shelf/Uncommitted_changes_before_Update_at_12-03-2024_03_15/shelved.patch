@@ -1,0 +1,71 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"3897db2d-d8fc-46b8-b392-02ea8a4caf98\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\r\n  \"lastFilter\": {\r\n  }\r\n}]]></component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"cc4d74ae-7655-4be3-9feb-83df18b9dc7e\" />\r\n        <option name=\"url\" value=\"https://github.com/dijucode/Core_Java.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 5\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2dCuYZyIIkuloB9Z0oznRfYZzVA\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Demo.executor\": \"Run\",\r\n    \"Application.DemoBufferReader.executor\": \"Run\",\r\n    \"Application.DemoConditionalOperator.executor\": \"Run\",\r\n    \"Application.DemoDoWhileLoop.executor\": \"Run\",\r\n    \"Application.DemoForLoop.executor\": \"Run\",\r\n    \"Application.DemoSwitchCase.executor\": \"Run\",\r\n    \"Application.DemoWhileLoop.executor\": \"Run\",\r\n    \"Application.IfElseDemo.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.MyThread.executor\": \"Run\",\r\n    \"Application.getter_setter.executor\": \"Run\",\r\n    \"Application.pracrice.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"ChangesTree.GroupingKeys\": [\r\n    ],\r\n    \"GitStage.ChangesTree.GroupingKeys\": [\r\n      \"directory\",\r\n      \"module\",\r\n      \"repository\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"Application.DemoForLoop\">\r\n    <configuration name=\"DemoBufferReader\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DemoBufferReader\" />\r\n      <module name=\"Core_Java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"DemoDoWhileLoop\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DemoDoWhileLoop\" />\r\n      <module name=\"Core_Java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"DemoForLoop\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DemoForLoop\" />\r\n      <module name=\"Core_Java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"DemoSwitchCase\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DemoSwitchCase\" />\r\n      <module name=\"Core_Java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"DemoWhileLoop\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"DemoWhileLoop\" />\r\n      <module name=\"Core_Java\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.DemoForLoop\" />\r\n        <item itemvalue=\"Application.DemoDoWhileLoop\" />\r\n        <item itemvalue=\"Application.DemoWhileLoop\" />\r\n        <item itemvalue=\"Application.DemoSwitchCase\" />\r\n        <item itemvalue=\"Application.DemoBufferReader\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"3897db2d-d8fc-46b8-b392-02ea8a4caf98\" name=\"Changes\" comment=\"\" />\r\n      <created>1709524430871</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1709524430871</updated>\r\n      <workItem from=\"1709524432009\" duration=\"1027000\" />\r\n      <workItem from=\"1709890074703\" duration=\"2213000\" />\r\n      <workItem from=\"1710089869833\" duration=\"2779000\" />\r\n      <workItem from=\"1710176013442\" duration=\"3824000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"DemoBufferReader Explaination Code\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710187599030</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710187599030</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"DemoBufferReader Explaination Code\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710187607010</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710187607010</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Integer.paresInt Demo added\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710189288355</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710189288355</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Practicing Demo Switch Case\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710190197616</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710190197616</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Practicing Demo Switch Case\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710190345758</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710190345758</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Practicing Demo Switch Case\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710190367485</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710190367485</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"While Loop\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1710191793345</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1710191793345</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"8\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"DemoBufferReader Explaination Code\" />\r\n    <MESSAGE value=\"Integer.paresInt Demo added\" />\r\n    <MESSAGE value=\"Practicing Demo Switch Case\" />\r\n    <MESSAGE value=\"While Loop\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"While Loop\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5cc6e1e61c9430fadbf070923138217a4a93ce00)
++++ b/.idea/workspace.xml	(date 1710193330013)
+@@ -80,23 +80,23 @@
+     ]
+   }
+ }]]></component>
+-  <component name="RunManager" selected="Application.DemoForLoop">
+-    <configuration name="DemoBufferReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="DemoBufferReader" />
++  <component name="RunManager" selected="Application.DemoStarPatternsUsingForLoop">
++    <configuration name="DemoDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="DemoDoWhileLoop" />
+       <module name="Core_Java" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="DemoDoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="DemoDoWhileLoop" />
++    <configuration name="DemoForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="DemoForLoop" />
+       <module name="Core_Java" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="DemoForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="DemoForLoop" />
++    <configuration name="DemoStarPatternsUsingForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="DemoStarPatternsUsingForLoop" />
+       <module name="Core_Java" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+@@ -118,11 +118,11 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.DemoStarPatternsUsingForLoop" />
+         <item itemvalue="Application.DemoForLoop" />
+         <item itemvalue="Application.DemoDoWhileLoop" />
+         <item itemvalue="Application.DemoWhileLoop" />
+         <item itemvalue="Application.DemoSwitchCase" />
+-        <item itemvalue="Application.DemoBufferReader" />
+       </list>
+     </recent_temporary>
+   </component>
+@@ -202,7 +202,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1710191793345</updated>
+     </task>
+-    <option name="localTasksCounter" value="8" />
++    <task id="LOCAL-00008" summary="While Loop">
++      <option name="closed" value="true" />
++      <created>1710192770342</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1710192770342</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
