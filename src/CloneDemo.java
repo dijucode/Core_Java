@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 
 public class CloneDemo implements Cloneable {
     public static void main(String[] args) throws Exception {
