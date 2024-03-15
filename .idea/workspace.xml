@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3897db2d-d8fc-46b8-b392-02ea8a4caf98" name="Changes" comment="" />
+    <list default="true" id="3897db2d-d8fc-46b8-b392-02ea8a4caf98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,53 +46,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayMinElement.executor": "Run",
-    "Application.Demo.executor": "Run",
-    "Application.DemoArray.executor": "Run",
-    "Application.DemoBufferReader.executor": "Run",
-    "Application.DemoConditionalOperator.executor": "Run",
-    "Application.DemoDoWhileLoop.executor": "Run",
-    "Application.DemoForLoop.executor": "Run",
-    "Application.DemoNumberPattern.executor": "Run",
-    "Application.DemoSortingArray.executor": "Run",
-    "Application.DemoStarPatternsUsingForLoop.executor": "Run",
-    "Application.DemoSwitchCase.executor": "Run",
-    "Application.DemoWhileLoop.executor": "Run",
-    "Application.IfElseDemo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MyThread.executor": "Run",
-    "Application.ReverseAnArray.executor": "Run",
-    "Application.TwoSumArray.executor": "Run",
-    "Application.getter_setter.executor": "Run",
-    "Application.pracrice.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayMinElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollegeData.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoArithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoBufferReader.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoConditionalOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoDoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoNumberPattern.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoSortingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoStarPatternsUsingForLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoSwitchCase.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoWhileLoop.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IfElseDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SBDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSumArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.getter_setter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pracrice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
     ],
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.TwoSumArray">
-    <configuration name="ArrayMinElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayMinElement" />
+}</component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="DemoArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoArithmetic" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,22 +110,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoSortingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoSortingArray" />
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Driver" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseAnArray" />
+    <configuration name="SwapString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapString" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumArray" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoSumArray" />
-        <item itemvalue="Application.ReverseAnArray" />
-        <item itemvalue="Application.ArrayMinElement" />
-        <item itemvalue="Application.DemoSortingArray" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.DemoArithmetic" />
+        <item itemvalue="Application.Driver" />
         <item itemvalue="Application.DemoArray" />
+        <item itemvalue="Application.SwapString" />
       </list>
     </recent_temporary>
   </component>
@@ -155,6 +162,9 @@
       <workItem from="1710176013442" duration="3824000" />
       <workItem from="1710298028751" duration="3395000" />
       <workItem from="1710344968863" duration="664000" />
+      <workItem from="1710351704464" duration="1630000" />
+      <workItem from="1710415096242" duration="6543000" />
+      <workItem from="1710485065143" duration="1120000" />
     </task>
     <task id="LOCAL-00001" summary="DemoBufferReader Explaination Code">
       <option name="closed" value="true" />
@@ -278,5 +288,16 @@
     <MESSAGE value="Number Patterns" />
     <MESSAGE value="Array sorting" />
     <option name="LAST_COMMIT_MESSAGE" value="Array sorting" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SwapString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
