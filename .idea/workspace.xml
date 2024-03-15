@@ -49,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ArrayMinElement.executor": "Run",
+    "Application.BufferReaderDemo.executor": "Run",
     "Application.CloneDemo.executor": "Run",
     "Application.CollegeData.executor": "Run",
     "Application.Demo.executor": "Run",
@@ -64,6 +65,7 @@
     "Application.DemoSwitchCase.executor": "Run",
     "Application.DemoWhileLoop.executor": "Run",
     "Application.Driver.executor": "Run",
+    "Application.ExceptioonHanlingDemo.executor": "Run",
     "Application.IfElseDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyThread.executor": "Run",
@@ -97,7 +99,14 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CloneDemo">
+  <component name="RunManager" selected="Application.ExceptioonHanlingDemo">
+    <configuration name="BufferReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BufferReaderDemo" />
+      <module name="Core_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CloneDemo" />
       <module name="Core_Java" />
@@ -112,15 +121,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoArray" />
-      <module name="Core_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
+    <configuration name="ExceptioonHanlingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptioonHanlingDemo" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptioonHanlingDemo" />
+        <item itemvalue="Application.BufferReaderDemo" />
         <item itemvalue="Application.CloneDemo" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.DemoArithmetic" />
-        <item itemvalue="Application.Driver" />
-        <item itemvalue="Application.DemoArray" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +168,7 @@
       <workItem from="1710344968863" duration="664000" />
       <workItem from="1710351704464" duration="1630000" />
       <workItem from="1710415096242" duration="6543000" />
-      <workItem from="1710485065143" duration="2441000" />
+      <workItem from="1710485065143" duration="4953000" />
     </task>
     <task id="LOCAL-00001" summary="DemoBufferReader Explaination Code">
       <option name="closed" value="true" />
@@ -280,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710486362990</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="clone an object">
+      <option name="closed" value="true" />
+      <created>1710497097763</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497097763</updated>
+    </task>
+    <task id="LOCAL-00016" summary="clone an object">
+      <option name="closed" value="true" />
+      <created>1710497118271</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710497118271</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +324,8 @@
     <MESSAGE value="Number Patterns" />
     <MESSAGE value="Array sorting" />
     <MESSAGE value="Abstract Demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Abstract Demo" />
+    <MESSAGE value="clone an object" />
+    <option name="LAST_COMMIT_MESSAGE" value="clone an object" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
