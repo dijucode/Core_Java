@@ -48,11 +48,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListDemo.executor": "Run",
     "Application.ArrayMinElement.executor": "Run",
     "Application.BufferReaderDemo.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CallDemo.executor": "Run",
     "Application.CloneDemo.executor": "Run",
+    "Application.CollectionsDemo.executor": "Run",
     "Application.CollegeData.executor": "Run",
     "Application.Demo.executor": "Run",
+    "Application.Demo1.executor": "Run",
+    "Application.Demo2.executor": "Run",
     "Application.DemoArithmetic.executor": "Run",
     "Application.DemoArray.executor": "Run",
     "Application.DemoBufferReader.executor": "Run",
@@ -63,18 +69,31 @@
     "Application.DemoSortingArray.executor": "Run",
     "Application.DemoStarPatternsUsingForLoop.executor": "Run",
     "Application.DemoSwitchCase.executor": "Run",
-    "Application.DemoWhileLoop.executor": "Run",
+    "Application.DemoWhileLoop.executor": "Debug",
     "Application.Driver.executor": "Run",
     "Application.ExceptioonHanlingDemo.executor": "Run",
+    "Application.FactorialDemo.executor": "Run",
+    "Application.FileHandling.executor": "Run",
     "Application.IfElseDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.ReverseAnArray.executor": "Run",
     "Application.SBDemo.executor": "Run",
+    "Application.SerializableDemo.executor": "Run",
+    "Application.SplitDemo.executor": "Run",
+    "Application.SumDemo.executor": "Run",
     "Application.SwapString.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.ThreadDemo (1).executor": "Run",
+    "Application.ThreadDemo (2).executor": "Coverage",
+    "Application.ThreadDemo.executor": "Run",
+    "Application.ThreadSleep.executor": "Run",
+    "Application.ThrowDemo.executor": "Run",
+    "Application.TryCatchDemo.executor": "Run",
+    "Application.Try_Catch_Finally.executor": "Run",
     "Application.TwoSumArray.executor": "Run",
     "Application.getter_setter.executor": "Run",
+    "Application.incrimentDemo.executor": "Run",
     "Application.pracrice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -87,6 +106,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/itsdi/IdeaProjects/Core_Java/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -99,49 +119,86 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ExceptioonHanlingDemo">
-    <configuration name="BufferReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BufferReaderDemo" />
+  <component name="RunManager" selected="Application.ArrayListDemo">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.ArrayListDemo" />
+      <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.CollectionsDemo" />
+      <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DemoWhileLoop" />
       <module name="Core_Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CloneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CloneDemo" />
+    <configuration name="FactorialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.FactorialDemo" />
       <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoArithmetic" />
+    <configuration name="SumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.SumDemo" />
       <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExceptioonHanlingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptioonHanlingDemo" />
+    <configuration name="ThreadDemo (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.ThreadDemo" />
       <module name="Core_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExceptioonHanlingDemo" />
-        <item itemvalue="Application.BufferReaderDemo" />
-        <item itemvalue="Application.CloneDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.DemoArithmetic" />
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.FactorialDemo" />
+        <item itemvalue="Application.SumDemo" />
+        <item itemvalue="Application.DemoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +225,13 @@
       <workItem from="1710344968863" duration="664000" />
       <workItem from="1710351704464" duration="1630000" />
       <workItem from="1710415096242" duration="6543000" />
-      <workItem from="1710485065143" duration="4953000" />
+      <workItem from="1710485065143" duration="14324000" />
+      <workItem from="1710534071405" duration="1994000" />
+      <workItem from="1710537049046" duration="3795000" />
+      <workItem from="1710571269680" duration="4316000" />
+      <workItem from="1710581537841" duration="91000" />
+      <workItem from="1710583065551" duration="9181000" />
+      <workItem from="1711733552553" duration="5068000" />
     </task>
     <task id="LOCAL-00001" summary="DemoBufferReader Explaination Code">
       <option name="closed" value="true" />
@@ -298,7 +361,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710497118271</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Try-Catch">
+      <option name="closed" value="true" />
+      <created>1710505674153</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710505674153</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Try-Catch">
+      <option name="closed" value="true" />
+      <created>1710505713249</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710505713249</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,7 +404,8 @@
     <MESSAGE value="Array sorting" />
     <MESSAGE value="Abstract Demo" />
     <MESSAGE value="clone an object" />
-    <option name="LAST_COMMIT_MESSAGE" value="clone an object" />
+    <MESSAGE value="Try-Catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try-Catch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -334,6 +414,19 @@
           <url>file://$PROJECT_DIR$/src/SwapString.java</url>
           <line>9</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.core_java.NoSuchIdException" package="com.core_java" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/core_java/SumDemo.java</url>
+          <line>11</line>
+          <properties class="com.core_java.SumDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
