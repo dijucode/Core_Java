@@ -74,6 +74,7 @@
     "Application.ExceptioonHanlingDemo.executor": "Run",
     "Application.FactorialDemo.executor": "Run",
     "Application.FileHandling.executor": "Run",
+    "Application.HashMapDemo.executor": "Run",
     "Application.IfElseDemo.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MyThread.executor": "Run",
@@ -119,7 +120,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayListDemo">
+  <component name="RunManager" selected="Application.StudentMapDemo">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.core_java.ArrayListDemo" />
       <module name="Core_Java" />
@@ -146,13 +147,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemoWhileLoop" />
-      <module name="Core_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FactorialDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.core_java.FactorialDemo" />
       <module name="Core_Java" />
@@ -166,8 +160,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.core_java.SumDemo" />
+    <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.HashMapDemo" />
+      <module name="Core_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.core_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.core_java.StudentMapDemo" />
       <module name="Core_Java" />
       <extension name="coverage">
         <pattern>
@@ -194,11 +201,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentMapDemo" />
+        <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.ArrayListDemo" />
         <item itemvalue="Application.CollectionsDemo" />
         <item itemvalue="Application.FactorialDemo" />
-        <item itemvalue="Application.SumDemo" />
-        <item itemvalue="Application.DemoWhileLoop" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +238,8 @@
       <workItem from="1710571269680" duration="4316000" />
       <workItem from="1710581537841" duration="91000" />
       <workItem from="1710583065551" duration="9181000" />
-      <workItem from="1711733552553" duration="5068000" />
+      <workItem from="1711733552553" duration="5627000" />
+      <workItem from="1711826049081" duration="1775000" />
     </task>
     <task id="LOCAL-00001" summary="DemoBufferReader Explaination Code">
       <option name="closed" value="true" />
@@ -377,7 +385,31 @@
       <option name="project" value="LOCAL" />
       <updated>1710505713249</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Try-Catch">
+      <option name="closed" value="true" />
+      <created>1711745445931</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1711745445931</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Collections Demo">
+      <option name="closed" value="true" />
+      <created>1711745502353</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1711745502353</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Collections Demo">
+      <option name="closed" value="true" />
+      <created>1711745562219</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1711745562219</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +437,8 @@
     <MESSAGE value="Abstract Demo" />
     <MESSAGE value="clone an object" />
     <MESSAGE value="Try-Catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try-Catch" />
+    <MESSAGE value="Collections Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections Demo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -13,6 +13,12 @@ public class ArrayListDemo {
         l.add(400);
         l.add(500);
         System.out.println(l.get(2));
+        List l2 = new ArrayList();
+        l2.add(5656);
+        l2.addAll(l);
+        System.out.println(l2);
+        l2.retainAll(l);
+        System.out.println(l2);
 
     }
 }
